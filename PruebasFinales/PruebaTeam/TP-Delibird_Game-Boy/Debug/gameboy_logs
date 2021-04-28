@@ -1,0 +1,45 @@
+[INFO] 18:21:53:618 GameBoy/(12483:12483): Se ha iniciado el cliente gameboy
+
+[INFO] 18:21:53:623 GameBoy/(12483:12483): Se ha conectado el GameBoy a un proceso.
+Tipo de proceso: TEAM
+IP: 127.0.0.1
+PUERTO: 9897
+Socket:5
+[INFO] 18:21:53:625 GameBoy/(12483:12483): Se envió un mensaje al proceso TEAM
+[INFO] 18:21:53:625 GameBoy/(12483:12483): El proceso GameBoy finalizó su ejecución
+[INFO] 18:21:53:626 GameBoy/(12485:12485): Se ha iniciado el cliente gameboy
+
+[INFO] 18:21:53:628 GameBoy/(12485:12485): Se ha conectado el GameBoy a un proceso.
+Tipo de proceso: TEAM
+IP: 127.0.0.1
+PUERTO: 9897
+Socket:5
+[INFO] 18:21:53:628 GameBoy/(12485:12485): Se envió un mensaje al proceso TEAM
+[INFO] 18:21:53:628 GameBoy/(12485:12485): El proceso GameBoy finalizó su ejecución
+[INFO] 18:21:53:629 GameBoy/(12486:12486): Se ha iniciado el cliente gameboy
+
+[INFO] 18:21:53:629 GameBoy/(12486:12486): Se ha conectado el GameBoy a un proceso.
+Tipo de proceso: TEAM
+IP: 127.0.0.1
+PUERTO: 9897
+Socket:5
+[INFO] 18:21:53:630 GameBoy/(12486:12486): Se envió un mensaje al proceso TEAM
+[INFO] 18:21:53:630 GameBoy/(12486:12486): El proceso GameBoy finalizó su ejecución
+[INFO] 18:21:53:630 GameBoy/(12487:12487): Se ha iniciado el cliente gameboy
+
+[INFO] 18:21:53:631 GameBoy/(12487:12487): Se ha conectado el GameBoy a un proceso.
+Tipo de proceso: TEAM
+IP: 127.0.0.1
+PUERTO: 9897
+Socket:5
+[INFO] 18:21:53:631 GameBoy/(12487:12487): Se envió un mensaje al proceso TEAM
+[INFO] 18:21:53:631 GameBoy/(12487:12487): El proceso GameBoy finalizó su ejecución
+[INFO] 18:21:53:632 GameBoy/(12488:12488): Se ha iniciado el cliente gameboy
+
+[INFO] 18:21:53:632 GameBoy/(12488:12488): Se ha conectado el GameBoy a un proceso.
+Tipo de proceso: TEAM
+IP: 127.0.0.1
+PUERTO: 9897
+Socket:5
+[INFO] 18:21:53:633 GameBoy/(12488:12488): Se envió un mensaje al proceso TEAM
+[INFO] 18:21:53:633 GameBoy/(12488:12488): El proceso GameBoy finalizó su ejecución

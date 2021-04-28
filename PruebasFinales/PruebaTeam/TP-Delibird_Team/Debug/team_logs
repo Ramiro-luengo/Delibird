@@ -1,0 +1,170 @@
+[DEBUG] 18:21:39:289 Team/(12469:12469): Se ha iniciado un Team.
+[INFO] 18:21:39:289 Team/(12469:12469): Cantidad de posiciones: 3
+[INFO] 18:21:39:289 Team/(12469:12469): Cantidad de entrenadores: 3
+[INFO] 18:21:39:289 Team/(12469:12469): Entrenadores disponibles: 0
+[INFO] 18:21:39:289 Team/(12469:12469): Enviando GETs...
+[INFO] 18:21:39:290 Team/(12469:12469): No se pudo enviar el get
+[INFO] 18:21:39:290 Team/(12469:12469): No se pudo enviar el get
+[INFO] 18:21:39:290 Team/(12469:12469): No se pudo enviar el get
+[INFO] 18:21:39:290 Team/(12469:12469): No se pudo enviar el get
+[INFO] 18:21:39:290 Team/(12469:12469): GETs enviados
+[INFO] 18:21:39:290 Team/(12469:12476): Entrenadores disponibles: 3
+[INFO] 18:21:39:290 Team/(12469:12477): Socket de escucha para Gameboy creado
+[ERROR] 18:21:39:290 Team/(12469:12476): Entrando al semaforo de entrenadores disponibles
+[ERROR] 18:21:39:291 Team/(12469:12476): Entrando al semaforo de posiciones pendientes
+[DEBUG] 18:21:39:297 Team/(12469:12475): Se activa el planificador
+[INFO] 18:21:53:619 Team/(12469:12477): [GAMEBOY] Recibiendo mensaje del socket cliente: 12
+[INFO] 18:21:53:624 Team/(12469:12477): [GAMEBOY] Mensaje recibido
+[DEBUG] 18:21:53:624 Team/(12469:12477): [GAMEBOY] Llegó un mensaje de la cola APPEARED
+[INFO] 18:21:53:624 Team/(12469:12477): Procesando APPEARED...
+[DEBUG] 18:21:53:624 Team/(12469:12477): El pokemon esta en nuestro objetivo
+[INFO] 18:21:53:624 Team/(12469:12477): Pokemon: Pikachu
+[INFO] 18:21:53:624 Team/(12469:12477): Mensaje recibido: APPEARED_POKEMON Pikachu 9 9.
+[ERROR] 18:21:53:624 Team/(12469:12476): Entrando al semaforo de entrenadores disponibles
+[DEBUG] 18:21:53:624 Team/(12469:12475): Hurra, tengo algo en ready
+[ERROR] 18:21:53:624 Team/(12469:12476): Entrando al semaforo de posiciones pendientes
+[DEBUG] 18:21:53:624 Team/(12469:12473): El entrenador id: 1 se movio a la posicion [3,3]
+[INFO] 18:21:53:627 Team/(12469:12477): [GAMEBOY] Recibiendo mensaje del socket cliente: 13
+[INFO] 18:21:53:628 Team/(12469:12477): [GAMEBOY] Mensaje recibido
+[DEBUG] 18:21:53:628 Team/(12469:12477): [GAMEBOY] Llegó un mensaje de la cola APPEARED
+[INFO] 18:21:53:628 Team/(12469:12477): Procesando APPEARED...
+[DEBUG] 18:21:53:628 Team/(12469:12477): El pokemon esta en nuestro objetivo
+[INFO] 18:21:53:628 Team/(12469:12477): Pokemon: Squirtle
+[INFO] 18:21:53:628 Team/(12469:12477): Mensaje recibido: APPEARED_POKEMON Squirtle 6 7.
+[ERROR] 18:21:53:628 Team/(12469:12476): Entrando al semaforo de entrenadores disponibles
+[ERROR] 18:21:53:628 Team/(12469:12476): Entrando al semaforo de posiciones pendientes
+[INFO] 18:21:53:629 Team/(12469:12477): [GAMEBOY] Recibiendo mensaje del socket cliente: 14
+[INFO] 18:21:53:629 Team/(12469:12477): [GAMEBOY] Mensaje recibido
+[DEBUG] 18:21:53:629 Team/(12469:12477): [GAMEBOY] Llegó un mensaje de la cola APPEARED
+[INFO] 18:21:53:630 Team/(12469:12477): Procesando APPEARED...
+[DEBUG] 18:21:53:630 Team/(12469:12477): El pokemon esta en nuestro objetivo
+[INFO] 18:21:53:630 Team/(12469:12477): Pokemon: Onix
+[INFO] 18:21:53:630 Team/(12469:12477): Mensaje recibido: APPEARED_POKEMON Onix 2 8.
+[ERROR] 18:21:53:630 Team/(12469:12476): Entrando al semaforo de entrenadores disponibles
+[INFO] 18:21:53:631 Team/(12469:12477): [GAMEBOY] Recibiendo mensaje del socket cliente: 15
+[INFO] 18:21:53:631 Team/(12469:12477): [GAMEBOY] Mensaje recibido
+[DEBUG] 18:21:53:631 Team/(12469:12477): [GAMEBOY] Llegó un mensaje de la cola APPEARED
+[INFO] 18:21:53:631 Team/(12469:12477): Procesando APPEARED...
+[DEBUG] 18:21:53:631 Team/(12469:12477): El pokemon esta en nuestro objetivo
+[INFO] 18:21:53:631 Team/(12469:12477): Pokemon: Gengar
+[INFO] 18:21:53:631 Team/(12469:12477): Mensaje recibido: APPEARED_POKEMON Gengar 6 6.
+[INFO] 18:21:53:632 Team/(12469:12477): [GAMEBOY] Recibiendo mensaje del socket cliente: 16
+[INFO] 18:21:53:632 Team/(12469:12477): [GAMEBOY] Mensaje recibido
+[DEBUG] 18:21:53:632 Team/(12469:12477): [GAMEBOY] Llegó un mensaje de la cola APPEARED
+[INFO] 18:21:53:632 Team/(12469:12477): Procesando APPEARED...
+[DEBUG] 18:21:53:632 Team/(12469:12477): El pokemon esta en nuestro objetivo
+[INFO] 18:21:53:633 Team/(12469:12477): Pokemon: Squirtle
+[INFO] 18:21:53:633 Team/(12469:12477): Mensaje recibido: APPEARED_POKEMON Squirtle 5 5.
+[DEBUG] 18:21:54:625 Team/(12469:12473): El entrenador id: 1 se movio a la posicion [3,4]
+[DEBUG] 18:21:55:626 Team/(12469:12473): El entrenador id: 1 se movio a la posicion [4,4]
+[DEBUG] 18:21:56:626 Team/(12469:12473): El entrenador id: 1 se movio a la posicion [4,5]
+[DEBUG] 18:21:57:627 Team/(12469:12473): El entrenador id: 1 se movio a la posicion [5,5]
+[DEBUG] 18:21:58:627 Team/(12469:12473): El entrenador id: 1 se movio a la posicion [5,6]
+[DEBUG] 18:21:59:628 Team/(12469:12473): El entrenador id: 1 se movio a la posicion [6,6]
+[DEBUG] 18:22:00:629 Team/(12469:12473): El entrenador id: 1 se movio a la posicion [6,7]
+[DEBUG] 18:22:01:630 Team/(12469:12473): El entrenador id: 1 se movio a la posicion [7,7]
+[DEBUG] 18:22:02:631 Team/(12469:12473): El entrenador id: 1 se movio a la posicion [7,8]
+[DEBUG] 18:22:03:631 Team/(12469:12473): El entrenador id: 1 se movio a la posicion [8,8]
+[DEBUG] 18:22:04:631 Team/(12469:12473): El entrenador id: 1 se movio a la posicion [8,9]
+[DEBUG] 18:22:05:633 Team/(12469:12473): El entrenador id: 1 se movio a la posicion [9,9]
+[DEBUG] 18:22:06:634 Team/(12469:12475): Hurra, tengo algo en ready
+[DEBUG] 18:22:06:634 Team/(12469:12474): El entrenador id: 2 se movio a la posicion [3,2]
+[INFO] 18:22:06:634 Team/(12469:12492): El entrenador 1 capturo un Pikachu!
+[ERROR] 18:22:06:634 Team/(12469:12476): Entrando al semaforo de posiciones pendientes
+[ERROR] 18:22:06:634 Team/(12469:12476): Entrando al semaforo de entrenadores disponibles
+[DEBUG] 18:22:07:634 Team/(12469:12474): El entrenador id: 2 se movio a la posicion [3,3]
+[DEBUG] 18:22:08:635 Team/(12469:12474): El entrenador id: 2 se movio a la posicion [4,3]
+[DEBUG] 18:22:09:635 Team/(12469:12474): El entrenador id: 2 se movio a la posicion [4,4]
+[DEBUG] 18:22:10:637 Team/(12469:12474): El entrenador id: 2 se movio a la posicion [5,4]
+[DEBUG] 18:22:11:638 Team/(12469:12474): El entrenador id: 2 se movio a la posicion [5,5]
+[DEBUG] 18:22:12:638 Team/(12469:12474): El entrenador id: 2 se movio a la posicion [6,5]
+[DEBUG] 18:22:13:639 Team/(12469:12474): El entrenador id: 2 se movio a la posicion [6,6]
+[DEBUG] 18:22:14:640 Team/(12469:12474): El entrenador id: 2 se movio a la posicion [6,7]
+[DEBUG] 18:22:15:642 Team/(12469:12475): Hurra, tengo algo en ready
+[DEBUG] 18:22:15:642 Team/(12469:12472): El entrenador id: 0 se movio a la posicion [2,3]
+[INFO] 18:22:15:643 Team/(12469:12495): El entrenador 2 capturo un Squirtle!
+[ERROR] 18:22:15:643 Team/(12469:12476): Entrando al semaforo de posiciones pendientes
+[ERROR] 18:22:15:643 Team/(12469:12476): Entrando al semaforo de entrenadores disponibles
+[DEBUG] 18:22:16:643 Team/(12469:12472): El entrenador id: 0 se movio a la posicion [2,4]
+[DEBUG] 18:22:17:643 Team/(12469:12472): El entrenador id: 0 se movio a la posicion [2,5]
+[DEBUG] 18:22:18:644 Team/(12469:12472): El entrenador id: 0 se movio a la posicion [2,6]
+[DEBUG] 18:22:19:645 Team/(12469:12472): El entrenador id: 0 se movio a la posicion [2,7]
+[DEBUG] 18:22:20:646 Team/(12469:12472): El entrenador id: 0 se movio a la posicion [2,8]
+[DEBUG] 18:22:21:648 Team/(12469:12475): Hurra, tengo algo en ready
+[DEBUG] 18:22:21:648 Team/(12469:12473): El entrenador id: 1 se movio a la posicion [8,9]
+[INFO] 18:22:21:648 Team/(12469:12497): El entrenador 0 capturo un Onix!
+[DEBUG] 18:22:22:648 Team/(12469:12473): El entrenador id: 1 se movio a la posicion [8,8]
+[DEBUG] 18:22:23:649 Team/(12469:12473): El entrenador id: 1 se movio a la posicion [7,8]
+[DEBUG] 18:22:24:650 Team/(12469:12473): El entrenador id: 1 se movio a la posicion [7,7]
+[DEBUG] 18:22:25:652 Team/(12469:12473): El entrenador id: 1 se movio a la posicion [6,7]
+[DEBUG] 18:22:26:653 Team/(12469:12473): El entrenador id: 1 se movio a la posicion [6,6]
+[DEBUG] 18:22:27:655 Team/(12469:12475): Hurra, tengo algo en ready
+[DEBUG] 18:22:27:655 Team/(12469:12474): El entrenador id: 2 se movio a la posicion [5,7]
+[INFO] 18:22:27:656 Team/(12469:12501): El entrenador 1 capturo un Gengar!
+[DEBUG] 18:22:28:656 Team/(12469:12474): El entrenador id: 2 se movio a la posicion [5,6]
+[DEBUG] 18:22:29:657 Team/(12469:12474): El entrenador id: 2 se movio a la posicion [5,5]
+[INFO] 18:22:30:659 Team/(12469:12503): El entrenador 2 capturo un Squirtle!
+[DEBUG] 18:22:30:659 Team/(12469:12503): Se comienza el analisis de deadlock
+[INFO] 18:22:30:659 Team/(12469:12503): Estado final de los entrenadores:
+[INFO] 18:22:30:660 Team/(12469:12503): Entrenador id: 0
+[INFO] 18:22:30:660 Team/(12469:12503):   Objetivos Originales:
+[INFO] 18:22:30:660 Team/(12469:12503): 	Pikachu
+[INFO] 18:22:30:660 Team/(12469:12503): 	Squirtle
+[INFO] 18:22:30:661 Team/(12469:12503):   Pokemones:
+[INFO] 18:22:30:661 Team/(12469:12503): 	Pikachu
+[INFO] 18:22:30:661 Team/(12469:12503): 	Onix
+[INFO] 18:22:30:661 Team/(12469:12503): Entrenador id: 1
+[INFO] 18:22:30:662 Team/(12469:12503):   Objetivos Originales:
+[INFO] 18:22:30:662 Team/(12469:12503): 	Pikachu
+[INFO] 18:22:30:662 Team/(12469:12503): 	Gengar
+[INFO] 18:22:30:662 Team/(12469:12503):   Pokemones:
+[INFO] 18:22:30:663 Team/(12469:12503): 	Pikachu
+[INFO] 18:22:30:663 Team/(12469:12503): 	Gengar
+[INFO] 18:22:30:663 Team/(12469:12503): Entrenador id: 2
+[INFO] 18:22:30:663 Team/(12469:12503):   Objetivos Originales:
+[INFO] 18:22:30:664 Team/(12469:12503): 	Squirtle
+[INFO] 18:22:30:664 Team/(12469:12503): 	Onix
+[INFO] 18:22:30:664 Team/(12469:12503):   Pokemones:
+[INFO] 18:22:30:664 Team/(12469:12503): 	Squirtle
+[INFO] 18:22:30:665 Team/(12469:12503): 	Squirtle
+[DEBUG] 18:22:30:665 Team/(12469:12503): Pokemon a intercambiar del entrenador 0: Onix
+[DEBUG] 18:22:30:665 Team/(12469:12503): Pokemon a intercambiar del entrenador 2: Squirtle
+[DEBUG] 18:22:30:665 Team/(12469:12475): Hurra, tengo algo en ready
+[DEBUG] 18:22:30:665 Team/(12469:12472): El entrenador id: 0 se movio a la posicion [3,8]
+[DEBUG] 18:22:31:665 Team/(12469:12472): El entrenador id: 0 se movio a la posicion [3,7]
+[DEBUG] 18:22:32:666 Team/(12469:12472): El entrenador id: 0 se movio a la posicion [4,7]
+[DEBUG] 18:22:33:667 Team/(12469:12472): El entrenador id: 0 se movio a la posicion [4,6]
+[DEBUG] 18:22:34:667 Team/(12469:12472): El entrenador id: 0 se movio a la posicion [5,6]
+[DEBUG] 18:22:35:668 Team/(12469:12472): El entrenador id: 0 se movio a la posicion [5,5]
+[DEBUG] 18:22:36:669 Team/(12469:12472): Estoy intercambiando el pokemon Onix por Squirtle
+[DEBUG] 18:22:41:670 Team/(12469:12472): Se finalizo el intercambio entre el entrenador 0 y el entrenador 2
+[DEBUG] 18:22:41:670 Team/(12469:12503): Se termino la resolucion de deadlocks
+[DEBUG] 18:22:41:670 Team/(12469:12475): Se cumplieron los objetivos, finaliza el Planificador
+[INFO] 18:22:41:670 Team/(12469:12469): Estado final de los entrenadores:
+[INFO] 18:22:41:670 Team/(12469:12469): Entrenador id: 0
+[INFO] 18:22:41:670 Team/(12469:12469):   Objetivos Originales:
+[INFO] 18:22:41:670 Team/(12469:12469): 	Pikachu
+[INFO] 18:22:41:670 Team/(12469:12469): 	Squirtle
+[INFO] 18:22:41:671 Team/(12469:12469):   Pokemones:
+[INFO] 18:22:41:671 Team/(12469:12469): 	Pikachu
+[INFO] 18:22:41:671 Team/(12469:12469): 	Squirtle
+[INFO] 18:22:41:671 Team/(12469:12469): Entrenador id: 1
+[INFO] 18:22:41:672 Team/(12469:12469):   Objetivos Originales:
+[INFO] 18:22:41:672 Team/(12469:12469): 	Pikachu
+[INFO] 18:22:41:672 Team/(12469:12469): 	Gengar
+[INFO] 18:22:41:672 Team/(12469:12469):   Pokemones:
+[INFO] 18:22:41:673 Team/(12469:12469): 	Pikachu
+[INFO] 18:22:41:673 Team/(12469:12469): 	Gengar
+[INFO] 18:22:41:673 Team/(12469:12469): Entrenador id: 2
+[INFO] 18:22:41:673 Team/(12469:12469):   Objetivos Originales:
+[INFO] 18:22:41:673 Team/(12469:12469): 	Squirtle
+[INFO] 18:22:41:673 Team/(12469:12469): 	Onix
+[INFO] 18:22:41:675 Team/(12469:12469):   Pokemones:
+[INFO] 18:22:41:675 Team/(12469:12469): 	Squirtle
+[INFO] 18:22:41:675 Team/(12469:12469): 	Onix
+[INFO] 18:22:41:675 Team/(12469:12469): Finalizó la conexión con el servidor
+
+[INFO] 18:22:41:678 Team/(12469:12469): El proceso Team ha finalizado.
+[INFO] 18:22:41:679 Team/(12469:12469): Ciclos de CPU totales = 48
+[INFO] 18:22:41:679 Team/(12469:12469): Cambios de contexto realizados = 11
+[INFO] 18:22:41:679 Team/(12469:12469): Deadlocks detectados y resueltos = 1

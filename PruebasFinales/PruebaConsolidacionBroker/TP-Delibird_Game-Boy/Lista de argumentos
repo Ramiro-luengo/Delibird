@@ -1,0 +1,51 @@
+BROKER NEW_POKEMON [POKEMON] [POSX] [POSY] [CANTIDAD]
+
+${selected_text:BROKER} ${selected_text:NEW_POKEMON} ${selected_text:Pikachu} ${selected_text:5} ${selected_text:2} ${selected_text:4}
+
+BROKER APPEARED_POKEMON [POKEMON] [POSX] [POSY] [ID_MENSAJE_CORRELATIVO]
+
+${selected_text:BROKER} ${selected_text:APPEARED_POKEMON} ${selected_text:Pikachu} ${selected_text:5} ${selected_text:2} ${selected_text:-5} 
+
+BROKER CATCH_POKEMON [POKEMON] [POSX] [POSY]
+
+${selected_text:BROKER} ${selected_text:CATCH_POKEMON} ${selected_text:Pikachu} ${selected_text:5} ${selected_text:2} 
+
+BROKER CAUGHT_POKEMON [ID_MENSAJE_CORRELATIVO] [OK/FAIL] 
+
+${selected_text:BROKER} ${selected_text:CAUGHT_POKEMON} ${selected_text:-5} ${selected_text:1}
+
+BROKER GET_POKEMON [POKEMON]
+
+${selected_text:BROKER} ${selected_text:GET_POKEMON} ${selected_text:Pikachu}
+
+TEAM APPEARED_POKEMON [POKEMON] [POSX] [POSY]
+
+${selected_text:TEAM} ${selected_text:APPEARED_POKEMON} ${selected_text:Pikachu} ${selected_text:5} ${selected_text:2} 
+
+GAMECARD NEW_POKEMON [POKEMON] [POSX] [POSY] [CANTIDAD] [ID_MENSAJE]
+
+${selected_text:GAMECARD} ${selected_text:NEW_POKEMON} ${selected_text:Pikachu} ${selected_text:5} ${selected_text:2} ${selected_text:4} ${selected_text:-5}
+
+GAMECARD CATCH_POKEMON [POKEMON] [POSX] [POSY] [ID_MENSAJE]
+
+${selected_text:GAMECARD} ${selected_text:CATCH_POKEMON} ${selected_text:Pikachu} ${selected_text:5} ${selected_text:2} ${selected_text:-5}
+
+GAMECARD GET_POKEMON [POKEMON] [ID_MENSAJE]
+
+${selected_text:GAMECARD} ${selected_text:GET_POKEMON} ${selected_text:Pikachu} ${selected_text:-5}
+
+SUSCRIPTOR [COLA_DE_MENSAJES] [TIEMPO]
+
+${selected_text:SUSCRIPTOR} ${selected_text:APPEARED_POKEMON} ${selected_text:60}
+
+SUSCRIPTOR_CID [COLA_DE_MENSAJES] [TIEMPO] [CLIENT_ID] 
+
+${selected_text:SUSCRIPTOR_CID} ${selected_text:APPEARED_POKEMON} ${selected_text:60} ${selected_text:15} 
+
+
+argv[0]       argv[1]     argv[2]
+ 			BROKER LOCALIZED_POKEMON [POKEMON] [POSX1] [POSY1] [CANTIDAD1] [POSX2] [POSY2] [CANTIDAD2]
+
+${selected_text:BROKER} ${selected_text:LOCALIZED_POKEMON} ${selected_text:Pikachu} ${selected_text:5} ${selected_text:2} ${selected_text:4} ${selected_text:7} ${selected_text:5} ${selected_text:10}
+ 
+

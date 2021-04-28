@@ -1,0 +1,10 @@
+./TP-Delibird_Game-Boy BROKER NEW_POKEMON Vaporeon 5 5 4
+./TP-Delibird_Game-Boy BROKER NEW_POKEMON Jolteon 8 7 4
+./TP-Delibird_Game-Boy BROKER NEW_POKEMON Jolteon 10 7 4
+./TP-Delibird_Game-Boy BROKER NEW_POKEMON Pikachu 9 9 4
+./TP-Delibird_Game-Boy BROKER NEW_POKEMON Pikachu 16 16 4
+./TP-Delibird_Game-Boy BROKER NEW_POKEMON Squirtle 20 20 4
+./TP-Delibird_Game-Boy BROKER NEW_POKEMON Flareon 1 1 4
+./TP-Delibird_Game-Boy BROKER NEW_POKEMON Bulbasaur 3 16 4
+./TP-Delibird_Game-Boy BROKER NEW_POKEMON Onix 10 1 4
+./TP-Delibird_Game-Boy BROKER NEW_POKEMON Espeon 10 9 4
